@@ -1,0 +1,25 @@
+# PHPStorm IDE
+/.idea
+
+# Visual Studio IDE
+/.vs
+/.vscode
+*.obj
+*.vspscc
+*.log
+*.settings
+*.user
+*.suo
+
+# Project resources
+/bower_components
+/node_modules
+
+# Build folder
+/dist
+
+# Test output
+/coverage
+
+# Environment configuration
+/localhosts.json
